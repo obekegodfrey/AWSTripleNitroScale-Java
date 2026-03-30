@@ -1,6 +1,6 @@
 # Deploy Java Application on AWS 3-Tier Architecture
 
-![AWS Architecture](https://imgur.com/b9iHwVc.png)
+![AWS Architecture](images/AWSArchitecture.png)
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@
 
 ---
 
-![3-tier Architecture Diagram](https://imgur.com/3XF0tlJ.png)
+![3-tier Architecture Diagram](images/3-tierArchitecture.jpeg)
 
 ---
 
@@ -520,14 +520,12 @@ mvn test
 
 ## 🛠️ Author & Community
 
-This project is maintained by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.
+This project is maintained by **[Obeke Godfrey Vicent](https://github.com/obekegodfrey)** 💡.
 Your feedback and contributions are welcome!
 
 📧 **Connect with me:**
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguytech.com)
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
+- **GitHub**: [@obekegodfrey](https://github.com/obekegodfrey)
+- **Blog**: [ProDevOpsGuy](https://www.linkedin.com/in/obeke-godfrey-vicent-36216a336/)
 
 ---
 
@@ -540,7 +538,7 @@ If you found this project helpful, please consider:
 
 ### 📢 Stay Connected
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+![Follow Me](images/obeke_bg.jpeg)
 
 > [!Important]
 > This documentation is continuously evolving. For the latest updates, please check the repository regularly.
